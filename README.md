@@ -1,6 +1,6 @@
 # Bradley Scott Dickover
 
-**Founder & CEO, FlintTech Global** · Dickover Inc. · d|o · Minnesota
+**Founder & CEO, FlintTech Global** · Minnesota
 
 I build companies that can close their own loops.
 
