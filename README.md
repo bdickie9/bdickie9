@@ -1,12 +1,16 @@
 # Bradley Scott Dickover
 
-**Founder & CEO, FlintTech Global** · Minnesota
+**Founder, FLINTTECH** · Minnesota
 
 I build companies that can close their own loops.
 
-FlintTech Global is a founder-owned autonomous enterprise: Sovereign OS for policy, MIDAS for measured money rails, Helix for the demand-to-settlement loop, Echo and Meridian for perception and truth, and a specialist fleet bound by a written constitution.
+FLINTTECH is a founder-owned autonomous enterprise: Sovereign OS for policy, MIDAS for measured money rails, Helix for the demand-to-settlement loop, Echo and Meridian for perception and truth, and a specialist fleet bound by a written constitution.
 
 Not a chatbot that talks about business. A company that can think in loops.
+
+## Live product
+
+**FLINTleads**: live Minneapolis construction-permit leads, contractor permit history and website audits as clean JSON for AI agents. Pay per call in USDC on Base via x402, no API key: https://flinttech-x402.onrender.com
 
 ## Origin
 
