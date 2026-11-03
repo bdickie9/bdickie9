@@ -1,5 +1,9 @@
 # Bradley Scott Dickover
 
+> **🔴 Live now: [FLINTTECH x402 API](https://flinttech-x402.f1intt3ch.workers.dev)**. Pay-per-call contractor license, insurance, bond, risk and permit data for AI agents, in USDC on Base. No signup, from $0.01.
+> [Agent docs (llms.txt)](https://flinttech-x402.f1intt3ch.workers.dev/llms.txt) · [Free Contractor Risk Index](https://flinttech-x402.f1intt3ch.workers.dev/index) · [Free sample trust report (WA)](https://flinttech-x402.f1intt3ch.workers.dev/samples/trust-report-wa) · Hosted MCP: `https://flinttech-x402.f1intt3ch.workers.dev/mcp`
+
+
 **Founder, FLINTTECH** · Minnesota
 
 I build companies that can close their own loops.
